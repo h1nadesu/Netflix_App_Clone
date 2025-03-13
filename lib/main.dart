@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ZzapFlix',
+      title: 'Netflix',
       theme: ThemeData(
         brightness: Brightness.dark,
         primaryColor: Colors.black,
